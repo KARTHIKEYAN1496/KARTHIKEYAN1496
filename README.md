@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00BFFF&height=220&section=header&text=Karthikeyan%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Enthusiast%20%7C%20AI%20%26%20DS%20Student&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00BFFF&height=200&section=header&text=Karthikeyan+M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data+Science+Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Karthikeyan+M+%F0%9F%91%8B;Passionate+about+Data+Science+%F0%9F%93%8A;Turning+Raw+Data+into+Insights+%F0%9F%92%A1;Building+with+Python+%26+SQL+%F0%9F%90%8D;Exploring+Machine+Learning+%F0%9F%A4%96;Aspiring+Data+Scientist+%F0%9F%9A%80" />
 
@@ -32,7 +32,7 @@
 </td>
 <td width="45%">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
 
 </td>
 </tr>
